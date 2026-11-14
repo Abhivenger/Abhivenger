@@ -12,7 +12,9 @@
 
 <br/>
 
-**Frontend or full-stack engineer** · the public internet  
+## Hi 👋! My name is Abhivanth and I'm a Vibecoder from India
+
+**Frontend or full-stack engineer** · India  
 Building useful things and sharing the work in public.
 
 [GitHub](https://github.com/abhivenger)
@@ -33,14 +35,34 @@ Building useful things and sharing the work in public.
 
 Small teams, ambitious ideas, and useful collaborations.
 
+<br/>
+
+**Tech Stack**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+</div>
+
 </td>
 <td width="40%" valign="top">
 
 **PROFILE**
 
-**ROLE** · Frontend or full-stack engineer  
-**BASED** · the public internet  
-**FOCUS** · HTML  
+**ROLE** · Vibecoder / Full-stack engineer  
+**BASED** · India  
+**FOCUS** · TypeScript, React, Python, HTML  
 
 **8** repos  
 **20** contributions  
@@ -66,13 +88,20 @@ Small teams, ambitious ideas, and useful collaborations.
 
 </div>
 
-## Production palette
+## Production palette & Stats
 
 <div align="center">
 
 <img src="https://www.gitskins.com/api/section/stack?username=abhivenger&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168648692%3Fu%3Dc5ac97a6c78a32060cf56806fdb32373bb81c50a%26v%3D4&v=cinematic-stack-2&mode=dark" alt="Language Stack" width="100%" />
 
-<sub>HTML · TypeScript · Python · JavaScript · CSS · tools chosen for the work, not the trend</sub>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Abhivenger/Abhivenger/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://raw.githubusercontent.com/Abhivenger/Abhivenger/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+<br/>
+
+<sub>JavaScript · TypeScript · React · Python · C# · HTML · CSS · tools chosen for the work, not the trend</sub>
 
 <br/><br/>
 
@@ -106,19 +135,17 @@ Small teams, ambitious ideas, and useful collaborations.
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=abhivenger&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168648692%3Fu%3Dc5ac97a6c78a32060cf56806fdb32373bb81c50a%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Abhivenger/Abhivenger/snake-output/snake.svg" alt="Snake animation" width="100%" />
 
-<br/>
+<br/><br/>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhivenger/Abhivenger/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhivenger/Abhivenger/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhivenger/Abhivenger/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+</picture>
 
-## Play the next move
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/chess?username=abhivenger&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168648692%3Fu%3Dc5ac97a6c78a32060cf56806fdb32373bb81c50a%26v%3D4&v=cinematic-chess-1&mode=dark" alt="Chess Board" width="100%" />
-
-<br/>
+<br/><br/>
 
 ─── ◇ ───
 
@@ -130,9 +157,14 @@ I enjoy working with people who care about the details, share the context, and s
 
 <br/>
 
-<a href="https://github.com/abhivenger">
-  <img src="https://www.gitskins.com/api/section/social?username=abhivenger&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168648692%3Fu%3Dc5ac97a6c78a32060cf56806fdb32373bb81c50a%26v%3D4&v=cinematic-social-2&mode=dark" alt="GitHub Social" width="100%" />
-</a>
+<div>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</div>
 
 <br/>
 
@@ -140,6 +172,6 @@ I enjoy working with people who care about the details, share the context, and s
 
 <br/><br/>
 
-<sub>abhivenger · cinematic profile generated with GitSkins</sub>
+<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 
 </div>

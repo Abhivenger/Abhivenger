@@ -4,7 +4,7 @@
 
 <h2 align="left">Hi 👋! My name is Abhivanth and I'm a Vibecoder from India</h2>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/Sr7wj69fjFMAAAAd/patrick-jane-the-mentalist.gif" />
+<img align="right" height="150" src="./patrick-jane.gif" />
 
 **Frontend or full-stack engineer** · Building useful things and sharing the work in public.  
 Small teams, ambitious ideas, and useful collaborations.
@@ -49,8 +49,8 @@ Small teams, ambitious ideas, and useful collaborations.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhivenger/Abhivenger/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Abhivenger/Abhivenger/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhivenger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhivenger&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -66,13 +66,5 @@ Small teams, ambitious ideas, and useful collaborations.
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhivenger/Abhivenger/snake-output/snake.svg" alt="Snake animation" />
-
-  <br/><br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhivenger/Abhivenger/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhivenger/Abhivenger/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhivenger/Abhivenger/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhivenger&theme=dracula" alt="Contribution graph" />
 </div>
